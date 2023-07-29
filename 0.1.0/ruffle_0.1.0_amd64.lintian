@@ -1,0 +1,25 @@
+E: ruffle: copyright-file-contains-full-apache-2-license
+E: ruffle: copyright-not-using-common-license-for-apache2
+E: ruffle: description-is-pkg-name ruffle
+E: ruffle: description-starts-with-package-name
+E: ruffle: description-synopsis-is-duplicated line 1
+E: ruffle: description-too-short ruffle
+E: ruffle: dir-in-usr-local usr/local/bin/
+E: ruffle: embedded-library curl usr/local/bin/ruffle
+E: ruffle: file-in-usr-local usr/local/bin/ruffle
+E: ruffle: no-changelog usr/share/doc/ruffle/changelog.gz (native package)
+W: ruffle: copyright-without-copyright-notice
+W: ruffle: executable-not-elf-or-script usr/share/pixmaps/ruffle.svg
+W: ruffle: extended-description-line-too-long line 4
+W: ruffle: file-in-unusual-dir usr/local/bin/ruffle
+W: ruffle: non-standard-dir-perm usr/ 0775 != 0755
+W: ruffle: non-standard-dir-perm usr/local/ 0775 != 0755
+W: ruffle: non-standard-dir-perm usr/local/bin/ 0775 != 0755
+W: ruffle: non-standard-dir-perm usr/share/ 0775 != 0755
+W: ruffle: non-standard-dir-perm usr/share/applications/ 0775 != 0755
+W: ruffle: non-standard-dir-perm usr/share/doc/ 0775 != 0755
+W: ruffle: non-standard-dir-perm usr/share/doc/ruffle/ 0775 != 0755
+W: ruffle: non-standard-dir-perm usr/share/pixmaps/ 0775 != 0755
+W: ruffle: non-standard-file-perm usr/share/applications/Ruffle__Flash_Player_emulator.desktop 0664 != 0644
+W: ruffle: non-standard-file-perm usr/share/doc/ruffle/copyright 0664 != 0644
+W: ruffle: undeclared-elf-prerequisites usr/local/bin/ruffle (ld-linux-x86-64.so.2 libasound.so.2 libc.so.6 libcrypto.so.3 libgcc_s.so.1 libgobject-2.0.so.0 libgtk-3.so.0 libm.so.6 libssl.so.3 libz.so.1)

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Ruffle  Flash Player emulator
+Version=1.0
+Exec=/usr/local/bin/ruffle
+Comment=Flash Player emulator built in the Rust programming language.
+Icon=/usr/share/pixmaps/ruffle.svg
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Video;
