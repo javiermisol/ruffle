@@ -11,5 +11,5 @@ Diseñado para ser fácil de usar e instalar, los usuarios o propietarios de sit
 Ruffle es un proyecto de código completamente abierto mantenido por voluntarios. A todos nos apasiona la preservación de la historia de Internet, y nos atrajo trabajar en este proyecto para ayudar a preservar los muchos sitios web y la gran cantidad de contenido al que ya no se podrá acceder cuando los usuarios ya no puedan ejecutar el Flash Player oficial. Si desea ayudar a respaldar este proyecto, agradecemos todas las contribuciones de cualquier tipo, incluso si solo se trata de jugar algunos juegos antiguos y ver qué tan bien funcionan.
 
 
-##Deb package version for Ubuntu 22.04
-##Instalador para Windpws facil y sencillo.
+#### Deb package version for Ubuntu 22.04
+#### Instalador para Windpws facil y sencillo.
