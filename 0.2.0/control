@@ -1,0 +1,9 @@
+Package: ruffle
+Version: 2.0
+Maintainer: ruffle-rs <ruffle-rs@github.com>
+Homepage: https://ruffle.rs/
+Architecture: amd64
+Priority: optional
+Depends: libasound2-dev, libudev-dev, default-jre-headless, g++
+Description: Ruffle
+ Flash Player emulator written in the Rust programming language
