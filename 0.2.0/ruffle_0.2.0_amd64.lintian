@@ -1,0 +1,15 @@
+E: ruffle: control-file-has-bad-permissions 0755 != 0644 [md5sums]
+E: ruffle: copyright-file-contains-full-apache-2-license
+E: ruffle: description-is-pkg-name Ruffle
+E: ruffle: description-starts-with-package-name
+E: ruffle: description-too-short Ruffle
+E: ruffle: executable-desktop-file 0755 [usr/share/applications/rs.ruffle.Ruffle.desktop]
+E: ruffle: executable-in-usr-share-doc 0755 [usr/share/doc/ruffle/copyright]
+E: ruffle: missing-dependency-on-libc needed by usr/bin/ruffle
+E: ruffle: no-changelog usr/share/doc/ruffle/changelog.gz (native package)
+W: ruffle: executable-not-elf-or-script [usr/share/applications/rs.ruffle.Ruffle.desktop]
+W: ruffle: executable-not-elf-or-script [usr/share/applications/rs.ruffle.Ruffle.metainfo.xml]
+W: ruffle: executable-not-elf-or-script [usr/share/doc/ruffle/copyright]
+W: ruffle: executable-not-elf-or-script [usr/share/pixmaps/rs.ruffle.Ruffle.svg]
+W: ruffle: no-manual-page [usr/bin/ruffle]
+W: ruffle: recommended-field ruffle_0.2.0_amd64.deb Section
