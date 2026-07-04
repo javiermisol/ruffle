@@ -1,0 +1,11 @@
+Package: ruffle
+Version: 0.3.0
+Maintainer: © 2026 Ruffle Team <admin@ruffle.rs>
+Homepage: https://ruffle.rs/
+Architecture: amd64
+Priority: optional
+Description: Ruffle
+ An open source Flash Player emulator
+ Person installing Ruffle
+ .
+ Made to run natively on all modern operating systems and browsers, Ruffle brings Flash content back to life with no extra fuss.

@@ -1,0 +1,25 @@
+E: ruffle: control-file-has-bad-permissions 0755 != 0644 [md5sums]
+E: ruffle: copyright-file-contains-full-apache-2-license
+E: ruffle: copyright-not-using-common-license-for-apache2
+E: ruffle: description-is-pkg-name Ruffle
+E: ruffle: description-starts-with-package-name
+E: ruffle: description-too-short Ruffle
+E: ruffle: dir-in-usr-local [usr/local/games/]
+E: ruffle: dir-in-usr-local [usr/local/share/]
+E: ruffle: dir-in-usr-local [usr/local/share/ruffle/]
+E: ruffle: executable-desktop-file 0755 [usr/share/applications/rs.ruffle.Ruffle.desktop]
+E: ruffle: executable-in-usr-share-doc 0755 [usr/share/doc/ruffle/copyright]
+E: ruffle: file-in-usr-local [usr/local/games/ruffle]
+E: ruffle: file-in-usr-local [usr/local/share/ruffle/rs.ruffle.Ruffle.metainfo.xml]
+E: ruffle: no-changelog usr/share/doc/ruffle/changelog.gz (native package)
+W: ruffle: copyright-without-copyright-notice
+W: ruffle: desktop-command-not-in-package ruffle [usr/share/applications/rs.ruffle.Ruffle.desktop]
+W: ruffle: executable-not-elf-or-script [usr/local/share/ruffle/rs.ruffle.Ruffle.metainfo.xml]
+W: ruffle: executable-not-elf-or-script [usr/share/applications/rs.ruffle.Ruffle.desktop]
+W: ruffle: executable-not-elf-or-script [usr/share/doc/ruffle/copyright]
+W: ruffle: executable-not-elf-or-script [usr/share/pixmaps/rs.ruffle.Ruffle.svg]
+W: ruffle: extended-description-line-too-long line 4
+W: ruffle: file-in-unusual-dir [usr/local/games/ruffle]
+W: ruffle: file-in-unusual-dir [usr/local/share/ruffle/rs.ruffle.Ruffle.metainfo.xml]
+W: ruffle: recommended-field ruffle_0.3.0_amd64.deb Section
+W: ruffle: undeclared-elf-prerequisites (libasound.so.2 libc.so.6 libcrypto.so.3 libgcc_s.so.1 libm.so.6 libssl.so.3 libudev.so.1) [usr/local/games/ruffle]
