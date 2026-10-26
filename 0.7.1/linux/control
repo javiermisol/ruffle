@@ -1,0 +1,9 @@
+Package: ruffle
+Version: 0.7.1
+Maintainer: © 2026 Ruffle Team <[]>
+Section: games
+Architecture: amd64
+Priority: optional
+Depends: pkg-config, libasound2-dev, libudev-dev, libfontconfig-dev, libfreetype6-dev, libssl-dev, default-jre-headless, g++
+Description: Ruffle - An open source Flash Player emulator
+ Made to run natively on all modern operating systems and browsers, Ruffle brings Flash content back to life with no extra fuss.

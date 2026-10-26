@@ -1,0 +1,15 @@
+E: ruffle: control-file-has-bad-permissions 0755 != 0644 [md5sums]
+E: ruffle: copyright-file-contains-full-apache-2-license
+E: ruffle: depends-on-obsolete-package Depends: libfreetype6-dev => libfreetype-dev
+E: ruffle: depends-on-obsolete-package Depends: pkg-config => pkgconf
+E: ruffle: description-starts-with-package-name
+E: ruffle: executable-desktop-file 0755 [usr/share/applications/rs.ruffle.Ruffle.desktop]
+E: ruffle: executable-in-usr-share-doc 0755 [usr/share/doc/ruffle/copyright]
+E: ruffle: missing-dependency-on-libc needed by usr/games/ruffle
+E: ruffle: no-changelog usr/share/doc/ruffle/changelog.gz (native package)
+W: ruffle: executable-not-elf-or-script [usr/share/doc/ruffle/copyright]
+W: ruffle: executable-not-elf-or-script [usr/share/pixmaps/rs.ruffle.Ruffle.svg]
+W: ruffle: executable-not-elf-or-script [usr/share/ruffle/rs.ruffle.Ruffle.metainfo.xml]
+W: ruffle: extended-description-line-too-long line 1
+W: ruffle: no-manual-page [usr/games/ruffle]
+W: ruffle: unusual-interpreter xdg-open [usr/share/applications/rs.ruffle.Ruffle.desktop]
