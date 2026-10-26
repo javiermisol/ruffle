@@ -1,0 +1,23 @@
+E: Ruffle: bad-package-name
+E: Ruffle: copyright-file-contains-full-apache-2-license
+E: Ruffle: description-is-pkg-name Ruffle
+E: Ruffle: description-starts-with-package-name
+E: Ruffle: description-too-short Ruffle
+E: Ruffle: dir-in-usr-local usr/local/bin/
+E: Ruffle: embedded-library curl usr/local/bin/ruffle
+E: Ruffle: file-in-usr-local usr/local/bin/ruffle
+E: Ruffle: no-changelog usr/share/doc/Ruffle/changelog.gz (native package)
+E: Ruffle: package-not-lowercase
+W: Ruffle: executable-not-elf-or-script usr/share/pixmaps/ruffle.svg
+W: Ruffle: file-in-unusual-dir usr/local/bin/ruffle
+W: Ruffle: non-standard-dir-perm usr/ 0775 != 0755
+W: Ruffle: non-standard-dir-perm usr/local/ 0775 != 0755
+W: Ruffle: non-standard-dir-perm usr/local/bin/ 0775 != 0755
+W: Ruffle: non-standard-dir-perm usr/share/ 0775 != 0755
+W: Ruffle: non-standard-dir-perm usr/share/applications/ 0775 != 0755
+W: Ruffle: non-standard-dir-perm usr/share/doc/ 0775 != 0755
+W: Ruffle: non-standard-dir-perm usr/share/doc/Ruffle/ 0775 != 0755
+W: Ruffle: non-standard-dir-perm usr/share/pixmaps/ 0775 != 0755
+W: Ruffle: non-standard-file-perm usr/share/applications/Ruffle__Flash_Player_emulator.desktop 0664 != 0644
+W: Ruffle: non-standard-file-perm usr/share/doc/Ruffle/copyright 0664 != 0644
+W: Ruffle: undeclared-elf-prerequisites usr/local/bin/ruffle (ld-linux-x86-64.so.2 libasound.so.2 libc.so.6 libcrypto.so.3 libfontconfig.so.1 libfreetype.so.6 libgcc_s.so.1 libgobject-2.0.so.0 libgtk-3.so.0 libm.so.6 libssl.so.3 libxcb-render.so.0 libxcb-shape.so.0 libxcb-xfixes.so.0 libxcb.so.1 libz.so.1)
